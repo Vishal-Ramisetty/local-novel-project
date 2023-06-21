@@ -2,3 +2,5 @@ Father
 Mother
 Son 
 Brother
+Sister
+Uncle
