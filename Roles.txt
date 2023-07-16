@@ -1,6 +1,0 @@
-padre
-Mother
-Son 
-Brother
-Sister
-Uncle
